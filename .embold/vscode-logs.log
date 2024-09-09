@@ -1,0 +1,53 @@
+2024-09-09 19:23:51 info: Congratulations, your extension "Embold" is now active!
+2024-09-09 19:23:51 info: tempDirectory : /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-09-09 19:23:51 info: Extraction complete for source: /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/resources/embold-scanner-archive.zip, destination: /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-09-09 19:23:51 info: Extension installed on machine OS : darwin
+2024-09-09 19:23:51 info: Fetched the issues from DB
+2024-09-09 19:23:51 error: ERROR checking java version : Error: Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2024-09-09 19:23:51 info: Java version installed on machine : 
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2024-09-09 19:23:51 info: Java installed on machine.
+2024-09-09 19:23:51 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-09-09 19:23:51 info: Current installed embold extension version : 0.1.8
+2024-09-09 19:23:51 info: Latest embold extension version on marketplace : 0.1.6
+2024-09-09 19:26:32 info: Row(s) deleted
+2024-09-09 19:26:36 info: Row(s) deleted
+2024-09-09 19:26:37 info: Row(s) deleted
+2024-09-09 19:39:15 info: Congratulations, your extension "Embold" is now active!
+2024-09-09 19:39:15 info: tempDirectory : /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-09-09 19:39:15 info: Extraction complete for source: /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/resources/embold-scanner-archive.zip, destination: /Users/a_hnrv/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-09-09 19:39:15 info: Extension installed on machine OS : darwin
+2024-09-09 19:39:15 info: Fetched the issues from DB
+2024-09-09 19:39:15 error: ERROR checking java version : Error: Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2024-09-09 19:39:15 info: Java version installed on machine : 
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2024-09-09 19:39:15 info: Java installed on machine.
+2024-09-09 19:39:16 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-09-09 19:39:16 info: Current installed embold extension version : 0.1.8
+2024-09-09 19:39:16 info: Latest embold extension version on marketplace : 0.1.6
+2024-09-09 19:41:05 info: Row(s) deleted
+2024-09-09 19:41:05 info: Row(s) deleted
+2024-09-09 19:41:05 info: Row(s) deleted
+2024-09-09 19:41:05 info: Row(s) deleted
+2024-09-09 19:41:06 info: Row(s) deleted
+2024-09-09 19:41:37 info: Row(s) deleted
+2024-09-09 19:42:47 info: Row(s) deleted
+2024-09-09 19:43:38 info: Row(s) deleted
+2024-09-09 19:43:38 info: Row(s) deleted
+2024-09-09 19:50:33 info: Row(s) deleted
+2024-09-09 19:53:04 info: Row(s) deleted
+2024-09-09 19:53:35 info: Row(s) deleted
