@@ -9,6 +9,6 @@ function TodoList({ todos, toggleComplete }) {
       ))}
     </ul>
   );
-}1111
+}
 
-export default TodoList;
+export default TodoList
